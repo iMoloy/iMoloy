@@ -58,8 +58,8 @@
 </div>
 
 ```javascript
-const moloyKrishna = {
-  pronouns: "he/him",
+const moloyKrishnapaul = {
+  username: "iMoloy",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
   tools: [
     "React",
