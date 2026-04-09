@@ -84,7 +84,7 @@ Full-Stack Web Developer with a professional background in QA Engineering. Exper
 Developed a fully responsive front-end application for exploring and purchasing digital tools.
 
 - **Stack:** React.js, Tailwind CSS, DaisyUI, JavaScript (ES6+).
-- **Key Features:** Dynamic product catalog, functional shopping cart with total calculation, and real-time user feedback via Toastify.
+- **Key Features:** Dynamic product catalog, functional shopping cart with total calculation, and real-time user feedback.
 - [Live Demo](https://moloy.is-a.dev) | [Source Code](https://github.com/iMoloy)
 
 <br>
@@ -95,7 +95,7 @@ A lightweight issue management system built to demonstrate modular structure and
 
 - **Stack:** HTML, CSS, Tailwind CSS, JavaScript.
 - **Key Features:** Create and manage issues, dynamic list rendering, and JavaScript-based state handling.
-- [Source Code](https://github.com/iMoloy/githubIssuesTracker)
+- [Live Demo](https://imoloy.github.io/githubIssuesTracker/) | [Source Code](https://github.com/iMoloy/githubIssuesTracker)
 
 <br>
 
@@ -105,7 +105,7 @@ A centralized tool for managing job applications, tracking status, and monitorin
 
 - **Stack:** HTML, CSS, Tailwind CSS, JavaScript.
 - **Key Features:** Add/manage applications, track status changes, and responsive interface design.
-- [Source Code](https://github.com/iMoloy/jobApplicationTracker)
+- [Live Demo](https://imoloy.github.io/jobApplicationTracker/) | [Source Code](https://github.com/iMoloy/jobApplicationTracker)
 
 <br>
 
