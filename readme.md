@@ -15,33 +15,39 @@
 </p>
 </div>
 
-<br>
+---
 
-<table border="0" width="100%">
+<div align="center">
+
+<table border="0" width="100%" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="34%" valign="top">
+    <td width="34%" valign="top" align="left">
       <h3>💻 About Me</h3>
-      <p>QA Engineer at Digitex and a Full-Stack Web Developer. I specialize in building scalable web applications using the MERN stack and delivering high-quality, test-driven codebases through automated testing.</p>
+      <p>Worked as a QA Engineer at DigiteX and a Full-Stack Web Developer. I specialize in building scalable web applications using the MERN stack and delivering high-quality codebases through automated testing.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <h3>🎓 Education</h3>
       <ul>
         <li><b>Master of Social Science</b><br><i>Ongoing (Final Year)</i></li>
-        <li><b>Complete Full Stack Web Dev</b><br><i>Programming Hero (2026)</i></li>
-        <li><b>Bachelor of Social Science</b><br><i>MM College (2020)</i></li>
+        <li><b>Complete Full Stack Web Dev</b><br><i>Programming Hero (Batch13 Jan-Jun 2026)</i></li>
+        <li><b>Bachelor of Social Science</b><br><i>MM College (Seasion 2017-2020)</i></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <h3>📜 Certifications</h3>
       <ul>
-        <li><b>Full Stack Developer</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">Credential</a></i></li>
-        <li><b>Front-End Development</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">Credential</a></i></li>
-        <li><b>Software Testing</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">Credential</a></i></li>
-        <li><b>Automation Basics</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/PsIJt61YQYb">Credential</a></i></li>
+        <li><b>Full Stack Developer Course</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">Credential</a></i></li>
+        <li><b>Introduction to Front-End Development</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">Credential</a></i></li>
+        <li><b>Introduction to Software Testing</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">Credential</a></i></li>
+        <li><b>Automation Testing Basics</b><br><i>Simplilearn - <a href="https://simpli-web.app.link/e/PsIJt61YQYb">Credential</a></i></li>
       </ul>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -52,8 +58,8 @@
 </div>
 
 ```javascript
-const moloyKrishnapaul = {
-  username: "iMoloy",
+const moloyKrishna = {
+  pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
   tools: [
     "React",
@@ -66,66 +72,75 @@ const moloyKrishnapaul = {
   ],
   architecture: ["scalable web applications", "test-driven development"],
   experience: {
-    role: "QA Engineer @ DIGITX",
+    role: "QA Engineer @ DigitX",
     focus: "Automated & Manual Testing",
   },
   challenge:
-    "Building high-performance web applications and mastering the MERN stack.",
+    "Building high-performance web applications and mastering the MERN Stack.",
 };
 ```
 
-## 📂 Featured Projects
+---
 
-<table border="0" width="100%">
+<div align="center">
+  <h2>📂 Featured Projects</h2>
+</div>
+
+<div align="center">
+
+<table border="0" width="100%" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top" align="left">
       <h3>🛒 DigiTools</h3>
-      <p>Digital tools marketplace with dynamic product catalog.</p>
+      <p>Digital tools marketplace with a dynamic product catalog.</p>
       <p><b>Stack:</b> React, Tailwind, JS</p>
       <a href="https://moloy.is-a.dev">Live Demo</a> | <a href="https://github.com/iMoloy">Source Code</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="4%"></td>
+    <td width="48%" valign="top" align="left">
       <h3>🐛 GitHub Issues Tracker</h3>
-      <p>Lightweight system for tracking issues.</p>
+      <p>Lightweight system for tracking issues with dynamic UI updates.</p>
       <p><b>Stack:</b> HTML, Tailwind, JS</p>
       <a href="https://imoloy.github.io/githubIssuesTracker/">Live Demo</a> | <a href="https://github.com/iMoloy/githubIssuesTracker">Source Code</a>
     </td>
-    
   </tr>
-
   <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Job Tracker</h3>
-      <p>Centralized tool for monitoring job applications.</p>
+    <td width="48%" valign="top" align="left">
+      <h3>💼 Job Application Tracker</h3>
+      <p>Centralized tool for monitoring job applications and status changes.</p>
       <p><b>Stack:</b> HTML, Tailwind, JS</p>
       <a href="https://imoloy.github.io/jobApplicationTracker/">Live Demo</a> | <a href="https://github.com/iMoloy/jobApplicationTracker">Source Code</a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <br><br>
+    <td width="4%"></td>
+    <td width="48%" valign="middle" align="center">
       <b>🚀 New Project Coming Soon...</b>
       <p><i>Space reserved for your next masterpiece!</i></p>
     </td>
   </tr>
 </table>
 
-<br>
+</div>
+
+---
 
 <div align="center">
   <h2>📊 GitHub Analytics & Activity</h2>
-</div>
 
-<table border="0" width="100%">
+<table border="0" width="100%" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+    <td width="48%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+    <td width="4%"></td>
+    <td width="48%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" />
     </td>
   </tr>
 </table>
 
-<br>
+</div>
+
+---
 
 <div align="center">
   <p>Made with ❤️ by <b>Moloy Krishna Paul</b> &nbsp;|&nbsp; <i>"Architecting seamless user experiences and reliable codebases."</i></p>
