@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer • React • Node.js • MongoDB
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3584E4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;QA+%26+Automation+Engineer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3584E4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Scalable+Web+Applications;MERN+Stack+Specialist" alt="Typing SVG" />
 
 <p>
   <a href="https://moloy.is-a.dev"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
@@ -23,14 +23,14 @@
   <tr>
     <td width="34%" valign="top" align="left">
       <h3>💻 About Me</h3>
-      <p>Worked as a QA Engineer at DigiteX and a Full-Stack Web Developer. I specialize in building scalable web applications using the MERN stack and delivering high-quality codebases through automated testing.</p>
+      <p>I am a Full-Stack Web Developer passionate about building scalable and user-centric web applications. I specialize in the MERN stack and leverage my background in quality assurance to deliver robust, high-performance, and test-driven codebases.</p>
     </td>
     <td width="33%" valign="top" align="left">
       <h3>🎓 Education</h3>
       <ul>
         <li><b>Master of Social Science</b><br><i>Ongoing (Final Year)</i></li>
-        <li><b>Complete Full Stack Web Dev</b><br><i>Programming Hero (Batch13 Jan-Jun 2026)</i></li>
-        <li><b>Bachelor of Social Science</b><br><i>MM College (Seasion 2017-2020)</i></li>
+        <li><b>Complete Full Stack Web Dev</b><br><i>Programming Hero (2026)</i></li>
+        <li><b>Bachelor of Social Science</b><br><i>MM College (2020)</i></li>
       </ul>
     </td>
     <td width="33%" valign="top" align="left">
@@ -58,7 +58,7 @@
 </div>
 
 ```javascript
-const moloyKrishnapaul = {
+const moloyKrishnaPaul = {
   username: "iMoloy",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
   tools: [
@@ -70,13 +70,14 @@ const moloyKrishnapaul = {
     "Git",
     "Playwright",
   ],
-  architecture: ["scalable web applications", "test-driven development"],
-  experience: {
-    role: "QA Engineer @ DigitX",
-    focus: "Automated & Manual Testing",
+  architecture: ["Scalable Web Applications", "Test-Driven Development"],
+  focus: {
+    current: "Full-Stack Development",
+    stack: "MERN (MongoDB, Express, React, Node.js)",
+    experience: "QA Engineer @ DigitX",
   },
   challenge:
-    "Building high-performance web applications and mastering the MERN Stack.",
+    "Building high-performance web applications and mastering modern web technologies.",
 };
 ```
 
@@ -92,7 +93,7 @@ const moloyKrishnapaul = {
   <tr>
     <td width="48%" valign="top" align="left">
       <h3>🛒 DigiTools</h3>
-      <p>Digital tools marketplace with a dynamic product catalog.</p>
+      <p>Digital tools marketplace with a dynamic product catalog and user feedback system.</p>
       <p><b>Stack:</b> React, Tailwind, JS</p>
       <a href="https://moloy.is-a.dev">Live Demo</a> | <a href="https://github.com/iMoloy">Source Code</a>
     </td>
