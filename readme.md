@@ -1,3 +1,5 @@
+<blockquote>
+
 <div align="center">
 
 # 👋 Hey, I'm Moloy Krishna Paul
@@ -115,3 +117,5 @@ Made with ❤️ and countless hours of code by **Moloy Krishna Paul** _"Archite
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-brightgreen?style=flat-square)](https://github.com/iMoloy)
 
 </div>
+
+</blockquote>
