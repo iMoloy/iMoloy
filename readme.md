@@ -60,30 +60,54 @@ Full-Stack Web Developer with a professional background in QA Engineering. Exper
 
 ## 🎓 Education & Continuous Learning
 
-| Institution                    | Program / Degree                    | Duration / Status    |
-| :----------------------------- | :---------------------------------- | :------------------- |
-| **Programming Hero**           | Complete Full Stack Web Development | Jan 2026 – June 2026 |
-| **Michael Madhusudan College** | Bachelor of Social Science          | Completed (2020)     |
+<br>
+
+| Institution                    | Program / Certification               | Status / Link                                           |
+| :----------------------------- | :------------------------------------ | :------------------------------------------------------ |
+| **Programming Hero**           | Complete Full Stack Web Development   | Jan 2026 – June 2026                                    |
+| **Simplilearn**                | Full Stack Developer Course           | [Credential](https://simpli-web.app.link/e/dg5jnzNBWXb) |
+| **Simplilearn**                | Introduction to Front-End Development | [Credential](https://simpli-web.app.link/e/aDurUJPA2Yb) |
+| **Simplilearn**                | Introduction to Software Testing      | [Credential](https://simpli-web.app.link/e/WyrBZL7KRXb) |
+| **Simplilearn**                | Automation Testing Basics             | [Credential](https://simpli-web.app.link/e/PsIJt61YQYb) |
+| **Michael Madhusudan College** | Bachelor of Social Science            | Completed (2020)                                        |
+
+<br>
 
 ---
 
 ## 📂 Featured Projects
 
-### [Project Name 1]
+<br>
 
-_Replace this with a description of your primary full-stack application._
+### DigiTools - Premium Digital Tools Marketplace
 
-- **Stack:** React, Node.js, Express, MongoDB
-- **Key Features:** Secure Authentication, RESTful API, Responsive UI.
+Developed a fully responsive front-end application for exploring and purchasing digital tools.
+
+- **Stack:** React.js, Tailwind CSS, DaisyUI, JavaScript (ES6+).
+- **Key Features:** Dynamic product catalog, functional shopping cart with total calculation, and real-time user feedback via Toastify.
 - [Live Demo](https://moloy.is-a.dev) | [Source Code](https://github.com/iMoloy)
 
-### [Project Name 2]
+<br>
 
-_Replace this with a description of your secondary full-stack application._
+### GitHub Issues Tracker (JavaScript Web App)
 
-- **Stack:** React, Firebase, Tailwind CSS
-- **Key Features:** Real-time data updates, OAuth integration.
-- [Live Demo](https://moloy.is-a.dev) | [Source Code](https://github.com/iMoloy)
+A lightweight issue management system built to demonstrate modular structure and dynamic UI updates.
+
+- **Stack:** HTML, CSS, Tailwind CSS, JavaScript.
+- **Key Features:** Create and manage issues, dynamic list rendering, and JavaScript-based state handling.
+- [Source Code](https://github.com/iMoloy/githubIssuesTracker)
+
+<br>
+
+### Job Application Tracker (JavaScript Web App)
+
+A centralized tool for managing job applications, tracking status, and monitoring company details.
+
+- **Stack:** HTML, CSS, Tailwind CSS, JavaScript.
+- **Key Features:** Add/manage applications, track status changes, and responsive interface design.
+- [Source Code](https://github.com/iMoloy/jobApplicationTracker)
+
+<br>
 
 ---
 
