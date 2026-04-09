@@ -20,11 +20,10 @@
 
 </div>
 
----
+## 💻 About Me
 
-## 🚀 About Me
-
-Full-Stack Web Developer with a professional background in QA Engineering. Expert in architecting scalable, responsive web applications using the MERN stack. I leverage my experience in automated testing and defect management to deliver high-quality, test-driven codebases.
+Full-Stack Web Developer with a professional background in QA Engineering. I specialize in building scalable, responsive web applications using the MERN stack. I leverage my experience in automated testing and defect management to deliver high-quality, test-driven codebases.
+<br>
 
 ---
 
