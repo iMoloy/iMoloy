@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Moloy Krishna Paul
 
-### Full-Stack Web Developer • React • Node.js • MongoDB
+### Full-Stack Web Developer • React • Next.js • Node.js • MongoDB
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3584E4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Scalable+Web+Applications;MERN+Stack+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3584E4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Scalable+Web+Applications;MERN+Stack+Specialist;Next.js+%26+React+Developer" alt="Typing SVG" />
 
 <p>
   <a href="https://moloy.is-a.dev"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
@@ -23,7 +23,7 @@
   <tr>
     <td width="34%" valign="top" align="left">
       <h3>💻 About Me</h3>
-      <p>I am a Full-Stack Web Developer passionate about building scalable and user-centric web applications. I specialize in the MERN stack and leverage my background in quality assurance to deliver robust, high-performance, and test-driven codebases.</p>
+      <p>I am a Full-Stack Web Developer passionate about building scalable and user-centric web applications. I specialize in the MERN stack and Next.js, and leverage my background in quality assurance to deliver robust, high-performance, and test-driven codebases.</p>
     </td>
     <td width="33%" valign="top" align="left">
       <h3>🎓 Education</h3>
@@ -53,7 +53,7 @@
 
 ### 🔥 Languages & Frameworks & Tools 🔥
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 
 </div>
 
@@ -63,6 +63,7 @@ const moloyKrishnaPaul = {
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
   tools: [
     "React",
+    "Next.js",
     "Node.js",
     "Express",
     "MongoDB",
@@ -73,7 +74,7 @@ const moloyKrishnaPaul = {
   architecture: ["Scalable Web Applications", "Test-Driven Development"],
   focus: {
     current: "Full-Stack Development",
-    stack: "MERN (MongoDB, Express, React, Node.js)",
+    stack: "MERN (MongoDB, Express, React, Node.js) + Next.js",
     experience: "QA Engineer @ DigitX",
   },
   challenge:
