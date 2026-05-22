@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://moloy.is-a.dev"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://linkedin.com/in/iMoloy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/iMoloy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
   <a href="https://github.com/iMoloy"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:moloykrishnapaul@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/iMoloy"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
@@ -93,30 +93,32 @@ const moloyKrishnaPaul = {
 <table border="0" width="100%" cellpadding="10" cellspacing="0">
   <tr>
     <td width="48%" valign="top" align="left">
-      <h3>🛒 DigiTools</h3>
-      <p>Digital tools marketplace with a dynamic product catalog and user feedback system.</p>
-      <p><b>Stack:</b> React, Tailwind, JS</p>
-      <a href="https://moloy.is-a.dev">Live Demo</a> | <a href="https://github.com/iMoloy">Source Code</a>
+      <h3>🚗 AxleWay</h3>
+      <p>A premium peer-to-peer car sharing marketplace with real-time availability updates.</p>
+      <p><b>Stack:</b> Next.js, React, MongoDB</p>
+      <a href="https://axleway.vercel.app">Live Demo</a> | <a href="https://github.com/iMoloy/axleway-client">Source Code</a>
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top" align="left">
-      <h3>🐛 GitHub Issues Tracker</h3>
-      <p>Lightweight system for tracking issues with dynamic UI updates.</p>
-      <p><b>Stack:</b> HTML, Tailwind, JS</p>
-      <a href="https://imoloy.github.io/githubIssuesTracker/">Live Demo</a> | <a href="https://github.com/iMoloy/githubIssuesTracker">Source Code</a>
+      <h3>🖼️ LuminaTiles</h3>
+      <p>A full-stack image gallery application with dynamic layouts and real-time updates.</p>
+      <p><b>Stack:</b> Next.js, Tailwind, Firebase</p>
+      <a href="https://luminatiles.vercel.app/">Live Demo</a> | <a href="https://github.com/iMoloy/tiles-gallery">Source Code</a>
     </td>
   </tr>
   <tr>
+    <td width="48%" valign="top" align="left">
+      <h3>🛒 DigiTools</h3>
+      <p>Digital tools marketplace with a dynamic product catalog and user feedback system.</p>
+      <p><b>Stack:</b> React, Tailwind, JS</p>
+      <a href="https://moloy-digitools.netlify.app/">Live Demo</a> | <a href="https://github.com/iMoloy/DigiTools">Source Code</a>
+    </td>
+    <td width="4%"></td>
     <td width="48%" valign="top" align="left">
       <h3>💼 Job Application Tracker</h3>
       <p>Centralized tool for monitoring job applications and status changes.</p>
       <p><b>Stack:</b> HTML, Tailwind, JS</p>
       <a href="https://imoloy.github.io/jobApplicationTracker/">Live Demo</a> | <a href="https://github.com/iMoloy/jobApplicationTracker">Source Code</a>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="middle" align="center">
-      <b>🚀 New Project Coming Soon...</b>
-      <p><i>Space reserved for your next masterpiece!</i></p>
     </td>
   </tr>
 </table>
