@@ -93,32 +93,17 @@ const moloyKrishnaPaul = {
 <table border="0" width="100%" cellpadding="10" cellspacing="0">
   <tr>
     <td width="48%" valign="top" align="left">
+      <h3>🧠 Cognix</h3>
+      <p>An intelligent knowledge management system for organizing and retrieving information efficiently.</p>
+      <p><b>Stack:</b> React, Node.js, MongoDB</p>
+      <a href="https://cognix-app.vercel.app">Live Demo</a> | <a href="https://github.com/iMoloy/cognix">Source Code</a>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top" align="left">
       <h3>🚗 AxleWay</h3>
       <p>A premium peer-to-peer car sharing marketplace with real-time availability updates.</p>
       <p><b>Stack:</b> Next.js, React, MongoDB</p>
       <a href="https://axleway.vercel.app">Live Demo</a> | <a href="https://github.com/iMoloy/axleway-client">Source Code</a>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top" align="left">
-      <h3>🖼️ LuminaTiles</h3>
-      <p>A full-stack image gallery application with dynamic layouts and real-time updates.</p>
-      <p><b>Stack:</b> Next.js, Tailwind, Firebase</p>
-      <a href="https://luminatiles.vercel.app/">Live Demo</a> | <a href="https://github.com/iMoloy/tiles-gallery">Source Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="48%" valign="top" align="left">
-      <h3>🛒 DigiTools</h3>
-      <p>Digital tools marketplace with a dynamic product catalog and user feedback system.</p>
-      <p><b>Stack:</b> React, Tailwind, JS</p>
-      <a href="https://moloy-digitools.netlify.app/">Live Demo</a> | <a href="https://github.com/iMoloy/DigiTools">Source Code</a>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top" align="left">
-      <h3>💼 Job Application Tracker</h3>
-      <p>Centralized tool for monitoring job applications and status changes.</p>
-      <p><b>Stack:</b> HTML, Tailwind, JS</p>
-      <a href="https://imoloy.github.io/jobApplicationTracker/">Live Demo</a> | <a href="https://github.com/iMoloy/jobApplicationTracker">Source Code</a>
     </td>
   </tr>
 </table>
