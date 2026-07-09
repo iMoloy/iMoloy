@@ -149,12 +149,6 @@ I am a **Full-Stack Web Developer** passionate about building scalable, user-cen
   <img src="https://trophy.benkou.dev/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMoloy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🎓 Education & Certifications
