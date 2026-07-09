@@ -125,16 +125,16 @@ I am a **Full-Stack Web Developer** passionate about building scalable, user-cen
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td width="48%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
     </td>
     <td width="4%"></td>
     <td width="48%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iMoloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -146,32 +146,68 @@ I am a **Full-Stack Web Developer** passionate about building scalable, user-cen
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+### 🏫 Education
+
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="45%" valign="top">
-      <h3>🎓 Education</h3>
-      <ul>
-        <li><b>Master of Social Science</b><br /><i>Ongoing (Final Year)</i></li>
-        <li><b>Complete Full Stack Web Dev</b><br /><i>Programming Hero (2026)</i></li>
-        <li><b>Bachelor of Social Science</b><br /><i>MM College (2020)</i></li>
-      </ul>
+    <td width="32%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/MSS-Ongoing-4B9CD3?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="MSS" /><br /><br />
+      <b>Master of Social Science</b><br />
+      <i>🗓️ Final Year — Ongoing</i>
     </td>
-    <td width="10%"></td>
-    <td width="45%" valign="top">
-      <h3>📜 Certifications</h3>
-      <ul>
-        <li><b>Full Stack Developer Course</b><br /><i>Simplilearn — <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">Credential ↗</a></i></li>
-        <li><b>Intro to Front-End Development</b><br /><i>Simplilearn — <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">Credential ↗</a></i></li>
-        <li><b>Intro to Software Testing</b><br /><i>Simplilearn — <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">Credential ↗</a></i></li>
-        <li><b>Automation Testing Basics</b><br /><i>Simplilearn — <a href="https://simpli-web.app.link/e/PsIJt61YQYb">Credential ↗</a></i></li>
-      </ul>
+    <td width="2%"></td>
+    <td width="32%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Full%20Stack%20Dev-2026-00C853?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Dev" /><br /><br />
+      <b>Complete Full Stack Web Dev</b><br />
+      <i>🏫 Programming Hero — 2026</i>
+    </td>
+    <td width="2%"></td>
+    <td width="32%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/BSS-2020-607D8B?style=for-the-badge&logo=university&logoColor=white" alt="BSS" /><br /><br />
+      <b>Bachelor of Social Science</b><br />
+      <i>🏛️ MM College — 2020</i>
+    </td>
+  </tr>
+</table>
+
+### 📜 Certifications
+
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">
+        <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Course-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Full Stack Developer Course" />
+      </a><br />
+      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">View ↗</a></sub>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">
+        <img src="https://img.shields.io/badge/Intro%20to%20Front--End%20Dev-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Intro to Front-End Dev" />
+      </a><br />
+      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">View ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">
+        <img src="https://img.shields.io/badge/Intro%20to%20Software%20Testing-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Intro to Software Testing" />
+      </a><br />
+      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">View ↗</a></sub>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <a href="https://simpli-web.app.link/e/PsIJt61YQYb">
+        <img src="https://img.shields.io/badge/Automation%20Testing%20Basics-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Automation Testing Basics" />
+      </a><br />
+      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/PsIJt61YQYb">View ↗</a></sub>
     </td>
   </tr>
 </table>
