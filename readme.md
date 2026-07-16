@@ -33,143 +33,179 @@
   <img src="https://komarev.com/ghpvc/?username=iMoloy&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
 
----
-
-## 💡 About Me
-
-I am a **Full-Stack Web Developer** passionate about building scalable, user-centric web applications. I specialize in **React, Next.js, Node.js, and MongoDB** on both the front and back end, and bring a unique edge by leveraging my background in quality assurance to deliver robust, high-performance, and test-driven codebases. I enjoy turning complex problems into elegant digital solutions — from architecting efficient APIs to crafting pixel-perfect UIs.
+<br />
 
 ---
 
-## 🚀 What I'm Up To
-
-- 🔭 &nbsp;I'm currently working on a **tourism website** with full booking functionality
-- 🌱 &nbsp;I am exploring **Next.js** deeply — App Router, Server Actions & Streaming
-- 🛡️ &nbsp;Working on integrating **Better Auth** for advanced authentication flows
-- 🧪 &nbsp;Improving my **Playwright** end-to-end testing skills
-- 📖 &nbsp;Pursuing my **Master of Social Science** in the final year
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Better%20Auth-191919?style=for-the-badge&logo=shield&logoColor=F5A623" alt="Better Auth" />
-</p>
-
-### 🗄️ Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-### 🧪 Testing & QA
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-</p>
-
-### 🔧 Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</p>
+<div align="center">
+  <h2>👋 About Me</h2>
+  <p align="center">
+    I am a <b>Full-Stack Web Developer</b> passionate about building scalable, user-centric web applications. I specialize in <b>React, Next.js, Node.js, and MongoDB</b> on both the front and back end, and bring a unique edge by leveraging my background in quality assurance to deliver robust, high-performance, and test-driven codebases. I enjoy turning complex problems into elegant digital solutions — from architecting efficient APIs to crafting pixel-perfect UIs.
+  </p>
+</div>
 
 ---
 
-## 📂 Featured Projects
-
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top">
+      <h2>🚀 What I'm Up To</h2>
+      <ul>
+        <li>🌱 &nbsp;Exploring <b>Next.js</b> — App Router, Server Actions & Streaming.</li>
+        <li>🛡️ &nbsp;Integrating <b>Better Auth</b> for advanced authentication flows.</li>
+        <li>🧪 &nbsp;Improving my <b>Playwright</b> end-to-end testing skills.</li>
+        <li>📖 &nbsp;Pursuing my <b>Master of Social Science</b> (Final year).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>⚡ Fun Facts & Goals</h2>
+      <ul>
+        <li>🎯 &nbsp;Goal: Master Full-Stack Architecture & System Design.</li>
+        <li>💡 &nbsp;Fact: My QA background helps me write fewer bugs.</li>
+        <li>📚 &nbsp;Love learning new technologies and best practices.</li>
+        <li>🎨 &nbsp;Passionate about clean UI and seamless UX.</li>
+        <li>☕ &nbsp;Fueled by coffee and lines of code.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🛠️ Skills & Technologies</h2>
+  
+  <h3>🌐 Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </p>
+
+  <h3>⚙️ Backend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+    <img src="https://img.shields.io/badge/Better%20Auth-191919?style=for-the-badge&logo=shield&logoColor=F5A623" alt="Better Auth" />
+  </p>
+
+  <h3>🗄️ Database, Cloud & DevOps</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
+
+  <h3>🧪 Testing & QA Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📂 Featured Projects</h2>
+</div>
+
+<table width="100%" border="0" cellpadding="15" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top" align="center">
       <h3>🧠 Cognix</h3>
       <p>An intelligent knowledge management system for organizing and retrieving information efficiently.</p>
-      <p><b>Stack:</b> React • Node.js • MongoDB</p>
-      <a href="https://cognix-app.vercel.app">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/iMoloy/cognix">📁 Source Code</a>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <br/>
+      <a href="https://cognix-app.vercel.app">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-0052CC?style=for-the-badge" alt="Live Demo" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/iMoloy/cognix">
+        <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge" alt="Source Code" />
+      </a>
     </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🚗 AxleWay</h3>
       <p>A premium peer-to-peer car sharing marketplace with real-time availability updates.</p>
-      <p><b>Stack:</b> Next.js • React • MongoDB</p>
-      <a href="https://axleway.vercel.app">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/iMoloy/axleway-client">📁 Source Code</a>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <br/>
+      <a href="https://axleway.vercel.app">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-0052CC?style=for-the-badge" alt="Live Demo" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/iMoloy/axleway-client">
+        <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge" alt="Source Code" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <div align="center">
-
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td width="48%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
-    </td>
-    <td width="4%"></td>
-    <td width="48%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iMoloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
+  <table width="100%" border="0" cellpadding="8" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iMoloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <h3>🏆 Trophies</h3>
+  <p align="center">
+    <img src="https://trophy.benkou.dev/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  </p>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://trophy.benkou.dev/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <h2>🎓 Education & Certifications</h2>
 </div>
 
----
-
-## 🎓 Education & Certifications
-
-### 🏫 Education
-
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+<table width="100%" border="0" cellpadding="15" cellspacing="0">
   <tr>
-    <td width="32%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/MSS-Ongoing-4B9CD3?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="MSS" /><br /><br />
       <b>Master of Social Science</b><br />
       <i>🗓️ Final Year — Ongoing</i>
     </td>
-    <td width="2%"></td>
-    <td width="32%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/Full%20Stack%20Dev-2026-00C853?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Dev" /><br /><br />
       <b>Complete Full Stack Web Dev</b><br />
       <i>🏫 Programming Hero — 2026</i>
     </td>
-    <td width="2%"></td>
-    <td width="32%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/BSS-2020-607D8B?style=for-the-badge&logo=university&logoColor=white" alt="BSS" /><br /><br />
       <b>Bachelor of Social Science</b><br />
       <i>🏛️ MM College — 2020</i>
@@ -177,40 +213,24 @@ I am a **Full-Stack Web Developer** passionate about building scalable, user-cen
   </tr>
 </table>
 
-### 📜 Certifications
-
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">
-        <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Course-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Full Stack Developer Course" />
-      </a><br />
-      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">View ↗</a></sub>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">
-        <img src="https://img.shields.io/badge/Intro%20to%20Front--End%20Dev-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Intro to Front-End Dev" />
-      </a><br />
-      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">View ↗</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="48%" valign="top">
-      <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">
-        <img src="https://img.shields.io/badge/Intro%20to%20Software%20Testing-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Intro to Software Testing" />
-      </a><br />
-      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">View ↗</a></sub>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <a href="https://simpli-web.app.link/e/PsIJt61YQYb">
-        <img src="https://img.shields.io/badge/Automation%20Testing%20Basics-Simplilearn-FF6C37?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Automation Testing Basics" />
-      </a><br />
-      <sub>✅ Verified Credential &nbsp;·&nbsp; <a href="https://simpli-web.app.link/e/PsIJt61YQYb">View ↗</a></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📜 Featured Certifications</h3>
+  <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Course-Simplilearn-FF6C37?style=flat-square&logo=checkmarx&logoColor=white" alt="Full Stack Developer Course" />
+  </a>
+  &nbsp;
+  <a href="https://simpli-web.app.link/e/aDurUJPA2Yb">
+    <img src="https://img.shields.io/badge/Intro%20to%20Front--End%20Dev-Simplilearn-FF6C37?style=flat-square&logo=checkmarx&logoColor=white" alt="Intro to Front-End Dev" />
+  </a>
+  &nbsp;
+  <a href="https://simpli-web.app.link/e/WyrBZL7KRXb">
+    <img src="https://img.shields.io/badge/Intro%20to%20Software%20Testing-Simplilearn-FF6C37?style=flat-square&logo=checkmarx&logoColor=white" alt="Intro to Software Testing" />
+  </a>
+  &nbsp;
+  <a href="https://simpli-web.app.link/e/PsIJt61YQYb">
+    <img src="https://img.shields.io/badge/Automation%20Testing%20Basics-Simplilearn-FF6C37?style=flat-square&logo=checkmarx&logoColor=white" alt="Automation Testing Basics" />
+  </a>
+</div>
 
 ---
 
