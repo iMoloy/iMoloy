@@ -22,8 +22,8 @@
   <a href="mailto:moloykrishnapaul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
-  <a href="https://discord.com/users/504991796816773130">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://wa.me/8801521390385">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
@@ -37,12 +37,21 @@
 
 ---
 
-<div align="center">
-  <h2>👋 About Me</h2>
-  <p align="center">
-    I am a <b>Full-Stack Web Developer</b> passionate about building scalable, user-centric web applications. I specialize in <b>React, Next.js, Node.js, and MongoDB</b> on both the front and back end, and bring a unique edge by leveraging my background in quality assurance to deliver robust, high-performance, and test-driven codebases. I enjoy turning complex problems into elegant digital solutions — from architecting efficient APIs to crafting pixel-perfect UIs.
-  </p>
-</div>
+## 🧑‍💻 About Me
+
+```ts
+const moloy = {
+  name        : "Moloy Krishna Paul",
+  role        : "Full-Stack Web Developer",
+  location    : "Bangladesh 🇧🇩",
+  focus       : ["Scalable Web Apps", "Clean Architecture", "Pixel-Perfect UIs"],
+  currently   : ["Next.js App Router", "Better Auth", "Playwright"],
+  collaborate : "Open Source & Scalable Web Projects 🤝",
+  funFact     : "My QA background helps me write fewer bugs 🐛",
+  ask_me_about: ["React", "Next.js", "Node.js", "MongoDB", "Express", "REST APIs"],
+  available   : true,
+};
+```
 
 ---
 
@@ -51,6 +60,7 @@
     <td width="50%" valign="top">
       <h2>🚀 What I'm Up To</h2>
       <ul>
+        <li>🔭 &nbsp;Building a <b>tourism website</b> with full booking functionality.</li>
         <li>🌱 &nbsp;Exploring <b>Next.js</b> — App Router, Server Actions & Streaming.</li>
         <li>🛡️ &nbsp;Integrating <b>Better Auth</b> for advanced authentication flows.</li>
         <li>🧪 &nbsp;Improving my <b>Playwright</b> end-to-end testing skills.</li>
@@ -159,6 +169,21 @@
 ---
 
 <div align="center">
+  <h2>🏅 Highlights</h2>
+
+| 🏆 Achievement | 📌 Details |
+|:---|:---|
+| ⚡ Full-Stack Apps | Built production-ready React, Next.js & Node.js applications |
+| 🛡️ Auth Systems | Strong knowledge of Authentication flows (JWT, Better Auth) |
+| 📱 Responsive UI | Pixel-perfect mobile-first designs with Tailwind CSS |
+| 🔗 REST APIs | Designed and documented scalable RESTful backend services |
+| 🧪 Testing & QA | Background in software testing with Playwright & Jest |
+
+</div>
+
+---
+
+<div align="center">
   <h2>📊 GitHub Analytics</h2>
 </div>
 
@@ -181,6 +206,13 @@
   
   <br />
   
+  <h3>🔥 Contribution Graph</h3>
+  <a href="https://github.com/iMoloy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMoloy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Moloy's GitHub Activity Graph" />
+  </a>
+
+  <br /><br />
+
   <h3>🏆 Trophies</h3>
   <p align="center">
     <img src="https://trophy.benkou.dev/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
@@ -233,6 +265,17 @@
 </div>
 
 ---
+
+<div align="center">
+  <h3>💬 Dev Philosophy</h3>
+  <i>"First, solve the problem. Then, write the code.<br/>
+  Always maintain clean architecture and user-centric design."</i>
+
+  <br/><br/>
+  ⭐ <b>If you find my work valuable, consider giving a star!</b> ⭐
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
