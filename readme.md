@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Moloy%20Krishna%20Paul&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=60&descSize=19&descColor=a5b4fc&animation=twinkling" width="100%" alt="Moloy Krishna Paul - Full Stack Developer" />
+<img src="./assets/hero-banner.png" width="100%" alt="Moloy Krishna Paul - Full Stack Web Developer" />
 
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=780&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%26+Next.js+Specialist+%E2%9A%A1;Node.js+%26+Express+Expert+%F0%9F%9B%A0%EF%B8%8F;Building+Scalable+Web+Applications;QA+Engineer+%40+DigitX+%F0%9F%A7%AA" alt="Typing SVG" />
@@ -182,7 +183,7 @@ const moloy = {
         <img src="https://raw.githubusercontent.com/iMoloy/iMoloy/main/github-stats/overview.svg" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" height="195" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=iMoloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
