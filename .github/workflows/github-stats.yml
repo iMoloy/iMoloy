@@ -9,29 +9,33 @@ on:
       - main
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats SVGs
-        uses: jstrieb/github-stats@master
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          INCLUDE_FORKED_REPOS: "true"
-
-      - name: Move generated images
-        run: |
-          mkdir -p github-stats
-          cp generated/overview.svg github-stats/overview.svg 2>/dev/null || true
-          cp generated/languages.svg github-stats/languages.svg 2>/dev/null || true
-
-      - name: Commit and push stats images
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Overview Stats
+        uses: lowlighter/metrics@latest
         with:
-          commit_message: "chore: update GitHub stats [skip ci]"
-          file_pattern: "github-stats/*.svg"
+          filename: github-stats/overview.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: iMoloy
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Dhaka
+
+      - name: Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-stats/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: iMoloy
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          config_timezone: Asia/Dhaka
