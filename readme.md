@@ -1,36 +1,27 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0f3460&height=220&section=header&text=Moloy%20Krishna%20Paul&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Next.js&descAlignY=58&descSize=18&descColor=58a6ff&animation=fadeIn" width="100%" alt="Moloy Krishna Paul - Full Stack Web Developer Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Moloy%20Krishna%20Paul&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=60&descSize=19&descColor=a5b4fc&animation=twinkling" width="100%" alt="Moloy Krishna Paul - Full Stack Developer" />
+
 </div>
 
-<!-- Animated typing tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%26+Next.js+Specialist;Node.js+%26+Express+Expert;Building+Scalable+Web+Apps;QA+Engineer+%40+DigitX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=780&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%26+Next.js+Specialist+%E2%9A%A1;Node.js+%26+Express+Expert+%F0%9F%9B%A0%EF%B8%8F;Building+Scalable+Web+Applications;QA+Engineer+%40+DigitX+%F0%9F%A7%AA" alt="Typing SVG" />
 </div>
 
-<!-- Social Badges -->
 <div align="center">
-  <a href="https://moloy.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/iMoloy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://github.com/iMoloy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="mailto:moloykrishnapaul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://wa.me/8801521390385">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moloy.is-a.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iMoloy)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMoloy)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moloykrishnapaul@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801521390385)
+
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iMoloy&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iMoloy&label=Profile+Views&color=a5b4fc&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
@@ -84,41 +75,37 @@ const moloy = {
 
 <div align="center">
   <h2>🛠️ Skills & Technologies</h2>
-  
-  <h3>🌐 Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </p>
 
-  <h3>⚙️ Backend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/Better%20Auth-191919?style=for-the-badge&logo=shield&logoColor=F5A623" alt="Better Auth" />
-  </p>
+  ### 🌐 Frontend Development
 
-  <h3>🗄️ Database, Cloud & DevOps</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
-  <h3>🧪 Testing & QA Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </p>
+  ### ⚙️ Backend Development
+
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Better Auth](https://img.shields.io/badge/Better%20Auth-191919?style=for-the-badge&logo=shield&logoColor=F5A623)
+
+  ### 🗄️ Database, Cloud & DevOps
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+  ### 🧪 Testing & QA
+
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
 ---
@@ -188,35 +175,39 @@ const moloy = {
 </div>
 
 <div align="center">
+
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iMoloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+        <!-- Self-hosted: auto-generated by GitHub Actions workflow -->
+        <img src="https://raw.githubusercontent.com/iMoloy/iMoloy/main/github-stats/overview.svg" height="195" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="195" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iMoloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
+        <!-- Self-hosted: auto-generated by GitHub Actions workflow -->
+        <img src="https://raw.githubusercontent.com/iMoloy/iMoloy/main/github-stats/languages.svg" height="180" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  
+
   <br />
-  
+
   <h3>🔥 Contribution Graph</h3>
   <a href="https://github.com/iMoloy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMoloy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Moloy's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMoloy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a5b4fc&line=a5b4fc&point=ffffff&area=true&area_color=a5b4fc" alt="Moloy's GitHub Activity Graph" />
   </a>
 
   <br /><br />
 
   <h3>🏆 Trophies</h3>
   <p align="center">
-    <img src="https://trophy.benkou.dev/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iMoloy&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
   </p>
+
 </div>
 
 ---
@@ -278,6 +269,6 @@ const moloy = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
   <p>Made with ❤️ by <b>Moloy Krishna Paul</b> &nbsp;|&nbsp; <i>"Architecting seamless user experiences and reliable codebases."</i></p>
 </div>
