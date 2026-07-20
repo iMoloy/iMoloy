@@ -185,11 +185,6 @@ const moloy = {
         <img src="https://streak-stats.demolab.com/?user=iMoloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" height="195" alt="GitHub Streak" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://raw.githubusercontent.com/iMoloy/iMoloy/main/github-stats/languages.svg" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
   </table>
 
   <br />
