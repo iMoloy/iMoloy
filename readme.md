@@ -211,24 +211,24 @@ const moloy: Developer = {
 
 <div align="center">
   <h2>🎓 Education & Certifications</h2>
-</div>
 
-<table width="100%" border="0" cellpadding="15" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/Full%20Stack%20Dev-2026-00C853?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Dev" /><br /><br />
-      <b>Complete Full Stack Web Dev</b><br />
-      <i>🏫 Programming Hero — 2026</i>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/BSS-2020-607D8B?style=for-the-badge&logo=university&logoColor=white" alt="BSS" /><br /><br />
-      <b>Bachelor of Social Science</b><br />
-      <i>🏛️ MM College — 2020</i>
-    </td>
-  </tr>
-</table>
+  <table align="center" width="100%" border="0" cellpadding="15" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://img.shields.io/badge/Full%20Stack%20Dev-2026-00C853?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Dev" /><br /><br />
+        <b>Complete Full Stack Web Dev</b><br />
+        <i>🏫 Programming Hero — 2026</i>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://img.shields.io/badge/BSS-2020-607D8B?style=for-the-badge&logo=university&logoColor=white" alt="BSS" /><br /><br />
+        <b>Bachelor of Social Science</b><br />
+        <i>🏛️ MM College — 2020</i>
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
+  <br />
+
   <h3>📜 Featured Certifications</h3>
   <p>
     <a href="https://simpli-web.app.link/e/dg5jnzNBWXb">
