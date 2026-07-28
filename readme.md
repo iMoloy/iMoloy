@@ -34,7 +34,7 @@
   <p>
     <img src="https://img.shields.io/badge/Role-Junior%20Full%20Stack%20Developer-7aa2f7?style=for-the-badge&logo=code&logoColor=white" alt="Role" />
     &nbsp;
-    <a href="https://digitx.agency">
+    <a href="https://digitxgroup.com">
       <img src="https://img.shields.io/badge/Experience-QA%20Engineer%20%40%20DIGITX-bb9af7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience" />
     </a>
   </p>
@@ -57,9 +57,17 @@ const moloy: Developer = {
   title: "Junior Full Stack Developer",
   experience: "QA Engineer @ DIGITX",
   location: "Bangladesh",
-  coreTechStack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB", "REST APIs"],
+  coreTechStack: [
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+  ],
   currentFocus: ["Next.js App Router", "Better Auth", "TypeScript"],
-  qaAdvantage: "QA background ensures high API reliability and clean code quality",
+  qaAdvantage:
+    "QA background ensures high API reliability and clean code quality",
   openToOpportunities: true,
 };
 ```
@@ -125,6 +133,7 @@ const moloy: Developer = {
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4F46E5?style=for-the-badge)
 ![Adaptability](https://img.shields.io/badge/Adaptability-059669?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication-D97706?style=for-the-badge)
+
 </div>
 
 ---
@@ -203,7 +212,7 @@ const moloy: Developer = {
 | 🛡️ Auth Systems    | Strong knowledge of Authentication flows (JWT, Better Auth)  |
 | 📱 Responsive UI   | Pixel-perfect mobile-first designs with Tailwind CSS         |
 | 🔗 REST APIs       | Designed and documented scalable RESTful backend services    |
-| 🧪 Testing & QA    | Background in Manual & Regression Testing                   |
+| 🧪 Testing & QA    | Background in Manual & Regression Testing                    |
 
 </div>
 
