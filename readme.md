@@ -203,7 +203,7 @@ const moloy: Developer = {
 | 🛡️ Auth Systems    | Strong knowledge of Authentication flows (JWT, Better Auth)  |
 | 📱 Responsive UI   | Pixel-perfect mobile-first designs with Tailwind CSS         |
 | 🔗 REST APIs       | Designed and documented scalable RESTful backend services    |
-| 🧪 Testing & QA    | Background in software testing with Playwright & Jest        |
+| 🧪 Testing & QA    | Background in Manual & Regression Testing                   |
 
 </div>
 
