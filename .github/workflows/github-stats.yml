@@ -22,7 +22,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: iMoloy
           template: classic
-          base: header, activity, community, repositories
-          config_timezone: Asia/Dhaka
+          config_theme: tokyonight
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: iMoloy
+          outputs: |
+            github-stats/github-user-contribution-grid-snake.svg
+            github-stats/github-user-contribution-grid-snake-dark.svg?palette=github-dark
 
 
