@@ -252,7 +252,7 @@ const moloy: Developer = {
         <img src="https://raw.githubusercontent.com/iMoloy/iMoloy/main/github-stats/overview.svg" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=iMoloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=iMoloy&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
