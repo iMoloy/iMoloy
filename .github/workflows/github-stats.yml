@@ -15,6 +15,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
       - name: Overview Stats
         uses: lowlighter/metrics@latest
         with:
@@ -23,6 +26,7 @@ jobs:
           user: iMoloy
           template: classic
           config_theme: tokyonight
+          
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,4 +35,8 @@ jobs:
             github-stats/github-user-contribution-grid-snake.svg
             github-stats/github-user-contribution-grid-snake-dark.svg?palette=github-dark
 
-
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update github snake animation"
+          file_pattern: "github-stats/github-user-contribution-grid-snake*.svg"

@@ -33,9 +33,12 @@
 
   <p>
     <img src="https://img.shields.io/badge/Role-Junior%20Full%20Stack%20Developer-7aa2f7?style=for-the-badge&logo=code&logoColor=white" alt="Role" />
+    <a href="#">
+      <img src="https://img.shields.io/badge/Intern-Front--End%20AI%20%40%20FlyRank%20AI-ffb86c?style=for-the-badge&logo=robot&logoColor=white" alt="Experience FlyRank" />
+    </a>
     &nbsp;
     <a href="https://digitxgroup.com">
-      <img src="https://img.shields.io/badge/Experience-QA%20Engineer%20%40%20DIGITX-bb9af7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience" />
+      <img src="https://img.shields.io/badge/Experience-QA%20Engineer%20%40%20DIGITX-bb9af7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience DIGITX" />
     </a>
   </p>
 </div>
@@ -44,7 +47,7 @@
 interface Developer {
   name: string;
   title: string;
-  experience: string;
+  experience: string[];
   location: string;
   coreTechStack: string[];
   currentFocus: string[];
@@ -55,7 +58,7 @@ interface Developer {
 const moloy: Developer = {
   name: "Moloy Krishna Paul",
   title: "Junior Full Stack Developer",
-  experience: "QA Engineer @ DIGITX",
+  experience: ["Front-End AI Engineer @ FlyRank AI", "QA Engineer @ DIGITX"],
   location: "Bangladesh",
   coreTechStack: [
     "React.js",
@@ -71,33 +74,7 @@ const moloy: Developer = {
   openToOpportunities: true,
 };
 ```
-
 ---
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🚀 What I'm Up To</h2>
-      <ul>
-        <li>🔭 &nbsp;Building a <b>tourism website</b> with full booking functionality.</li>
-        <li>🌱 &nbsp;Exploring <b>Next.js</b> — App Router, Server Actions & Streaming.</li>
-        <li>🛡️ &nbsp;Integrating <b>Better Auth</b> for advanced authentication flows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>⚡ Fun Facts & Goals</h2>
-      <ul>
-        <li>🎯 &nbsp;Goal: Master Full-Stack Architecture & System Design.</li>
-        <li>💡 &nbsp;Fact: My QA background helps me write fewer bugs.</li>
-        <li>🎨 &nbsp;Passionate about clean UI and seamless UX.</li>
-        <li>☕ &nbsp;Fueled by coffee and lines of code.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <h2>🛠️ Skills & Technologies</h2>
 
@@ -143,58 +120,54 @@ const moloy: Developer = {
 </div>
 
 <table width="100%" border="0" cellpadding="15" cellspacing="0">
+
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🧠 Cognix</h3>
-      <p>AI prompt marketplace featuring live Gemini AI proxy execution, creator analytics, Better Auth, and Stripe monetization.</p>
+      <h3>🏋️ Fitora</h3>
+      <p>A modern health and fitness application tailored for achieving personal goals and tracking progress.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
         <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Better%20Auth-191919?style=flat-square&logo=shield&logoColor=F5A623" alt="Better Auth" />
-        <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI" />
       </p>
       <br/>
-      <a href="https://cognix-client.vercel.app">
+      <a href="https://fitora-fitness.vercel.app">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-0052CC?style=for-the-badge" alt="Live Demo" />
       </a>
       <br/><br/>
-      <a href="https://github.com/iMoloy/cognix">
+      <a href="https://github.com/Developer-Moy/Fitora">
         <img src="https://img.shields.io/badge/🎨_Frontend-181717?style=for-the-badge&logo=github" alt="Frontend Repo" />
       </a>
       &nbsp;
-      <a href="https://github.com/iMoloy/cognix-server">
+      <a href="https://github.com/Developer-Moy/Fitora">
         <img src="https://img.shields.io/badge/⚙️_Backend-181717?style=for-the-badge&logo=github" alt="Backend Repo" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🚗 AxleWay</h3>
-      <p>Car rental platform featuring secure Stripe checkouts, MongoDB booking conflict validation, Mapbox location tracking, and Firebase auth.</p>
+      <h3>🐾 PawMatch AI</h3>
+      <p>PawMatchAI is a modern, full-stack pet adoption platform that uses AI to match adopters with their ideal companion.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
         <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
       </p>
       <br/>
-      <a href="https://axleway.vercel.app">
+      <a href="https://pawmatchai.vercel.app">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-0052CC?style=for-the-badge" alt="Live Demo" />
       </a>
       <br/><br/>
-      <a href="https://github.com/iMoloy/axleway-client">
+      <a href="https://github.com/iMoloy/pawmatchai">
         <img src="https://img.shields.io/badge/🎨_Frontend-181717?style=for-the-badge&logo=github" alt="Frontend Repo" />
       </a>
       &nbsp;
-      <a href="https://github.com/iMoloy/axleway-server">
+      <a href="https://github.com/iMoloy/pawmatchai-server">
         <img src="https://img.shields.io/badge/⚙️_Backend-181717?style=for-the-badge&logo=github" alt="Backend Repo" />
       </a>
     </td>
@@ -209,6 +182,7 @@ const moloy: Developer = {
 | 🏆 Achievement     | 📌 Details                                                   |
 | :----------------- | :----------------------------------------------------------- |
 | ⚡ Full-Stack Apps | Built production-ready React, Next.js & Node.js applications |
+| 🤖 AI Engineering | Integrated AI workflows and APIs to enhance web applications |
 | 🛡️ Auth Systems    | Strong knowledge of Authentication flows (JWT, Better Auth)  |
 | 📱 Responsive UI   | Pixel-perfect mobile-first designs with Tailwind CSS         |
 | 🔗 REST APIs       | Designed and documented scalable RESTful backend services    |
@@ -266,12 +240,6 @@ const moloy: Developer = {
     </tr>
   </table>
 
-  <br />
-
-  <h3>🔥 Contribution Graph</h3>
-  <a href="https://github.com/iMoloy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMoloy&theme=tokyo-night&hide_border=true&area=false" alt="Moloy's GitHub Activity Graph" width="100%" />
-  </a>
 
 <br /><br />
 
